@@ -6,7 +6,7 @@ A 17-year old Brazilian with a passion for technology and solving problems
 <div>
   <a href="https://github.com/dgmatias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
