@@ -1,6 +1,6 @@
 # Hello Word! I'm Diego Matias
 
-A 17-year old Brazilian with a passion for technology and solving problems
+A 17-year old Brazilian with a passion for technology and solving problems <br>
 
 
 <div>
