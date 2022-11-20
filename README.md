@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ced1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+my+name+is+Diego+Matias;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ced1&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+my+name+is+Diego+Matias;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/dgmatias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&langs_count=7&theme=react"/>
 </div> <br>
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dgmatias&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dgmatias&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <div>  
    <h2> Contacts </h2> 
