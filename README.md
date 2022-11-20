@@ -1,7 +1,8 @@
 # Hello Word! I'm Diego Matias
 
-A 17-year old Brazilian with a passion for technology and solving problems <br>
-
+<div>
+  <p style="font-size: 50px"> A 17-year old Brazilian with a passion for technology and solving problems  </p> <br>
+</div>
 
 <div>
   <a href="https://github.com/dgmatias">
