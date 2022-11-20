@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ced1&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+my+name+is+Diego+Matias;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
+<di>
   <a href="https://github.com/dgmatias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&langs_count=7&theme=react"/>
-</div> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dgmatias&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
