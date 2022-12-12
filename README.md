@@ -8,8 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dgmatias&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <div>  
    <h2> Contacts </h2> 
