@@ -1,17 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+my+name+is+Diego+Matias;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e971b7&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+my+name+is+Diego+Matias;+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center">⚡ Github Stats</h3>
+<h3 align="center">⚡ Github Stats</h3>  
 <div align="center">  
-  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Diego Matias github stats" />
+  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&count_private=true&hide_border=true&title_color=e971b7&icon_color=bd93f9&text_color=bd93f9&bg_color=0d1117" alt="Diego Matias github stats" />
   
- <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117"/>
+ <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&hide_border=true&title_color=e971b7&text_color=bd93f9&bg_color=0d1117"/>
 </div>
   
  <h3 align="center">🔥 Github Streaks</h3>
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dgmatias&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="Diego Matias"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dgmatias&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=bd93f9&fire=bd93f9&currStreakLabel=e971b7" alt="Diego Matias"/></p>
 
   
  <div>  
@@ -44,5 +44,5 @@
 </div>
 
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
 
