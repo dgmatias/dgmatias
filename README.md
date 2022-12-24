@@ -2,20 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+my+name+is+Diego+Matias;+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h2 align="center">⚡ Github Stats</h3>
+<h3 align="center">⚡ Github Stats</h3>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Diego Matias github stats" />
   
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
   
- <h2 align="center">🔥 Github Streaks</h3>
+ <h3 align="center">🔥 Github Streaks</h3>
  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dgmatias&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="Diego Matias"/></p>
 
   
  <div>  
-   <h2 align="center"> Contacts </h2> 
+   <h3 align="center"> Contacts </h3> 
 </div>
   
 <div align="center">  
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <h2> Technologies: </h2>
+  <h3> Technologies: </h3>
 </div>
   
 <div style="display: inline_block" align="center" ><br>
@@ -38,7 +38,7 @@
 </div> 
  
  <div align="center">
-<br><h2 align="centre"><b>Visitors Count</b></h2>  
+<br><h3 align="centre"><b>Visitors Count</b></h3>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dgmatias}/count.svg" /></p> 
 <br>
 </div>
