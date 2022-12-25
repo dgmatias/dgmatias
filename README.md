@@ -11,7 +11,7 @@
  
  <h3 align="center"> Github Streaks</h3>
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=dgmatias&theme=jolly&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=0D1117&dates=50fa7b&ring=E971B7&fire=E971B7&currStreakNum=E971B7&sideNums=E971B7&currStreakLabel=BD93F9&sideLabels=BD93F9" alt="Diego Matias"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=dgmatias&theme=jolly&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=0D1117&dates=BD93F9&ring=50fa7b&fire=50fa7b&currStreakNum=50fa7b&sideNums=50fa7b&currStreakLabel=e971b7&sideLabels=e971b7" alt="Diego Matias"/></p>  E971B7
  
  <div>  
    <h3 align="center"> Contacts </h3> 
