@@ -35,6 +35,6 @@
   <img align="center" alt="dgmatias-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="dgmatias-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div> 
- 
+
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
 
