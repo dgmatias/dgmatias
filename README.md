@@ -9,6 +9,8 @@
  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&hide_border=true&title_color=e971b7&text_color=bd93f9&bg_color=0d1117"/>
 </div>
  
+ <h3 align="center">🔥 Github Streaks</h3>
+ 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dgmatias&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e971b7&fire=e971b7&currStreakLabel=bd93f9" alt="Diego Matias"/></p>
 
   
