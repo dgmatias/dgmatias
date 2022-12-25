@@ -4,7 +4,7 @@
 
 <h3 align="center"> Github Stats</h3>  
 <div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&icon_color=bd93f9&hide_border=true&text_color=50fa7b&ring_color=50fa7b&title_color=e971b7&bg_color=00000000" alt="Diego Matias github stats" />
+  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&icon_color=bd93f9&hide_border=true&text_color=50fa7b&ring_color=50fa7b&title_color=e971b7&bg_color=00000000" alt="Diego Matias github stats" />
   
  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&hide_border=true&title_color=e971b7&text_color=50fa7b&bg_color=00000000"/>
 </div>
@@ -35,9 +35,6 @@
   <img align="center" alt="dgmatias-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="dgmatias-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div> 
-
-
-
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
 
