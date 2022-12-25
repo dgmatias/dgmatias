@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e971b7&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+my+name+is+Diego+Matias;+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h3 align="center"> Github Stats</h3>  
+<h2 align="center"> Github Stats</h2>  
 <div align="center">  
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&count_private=true&hide_border=true&title_color=e971b7&icon_color=bd93f9&text_color=bd93f9&bg_color=0d1117" alt="Diego Matias github stats" />
   
