@@ -11,8 +11,7 @@
  
  <h3 align="center">🔥 Github Streaks</h3>
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dgmatias&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e971b7&fire=e971b7&currStreakLabel=bd93f9" alt="Diego Matias"/></p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=dgmatias&theme=jolly&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="Diego Matias"/></p>
   
  <div>  
    <h3 align="center"> Contacts </h3> 
