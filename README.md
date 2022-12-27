@@ -4,9 +4,9 @@
 
 <h3 align="center"> Github Stats</h3>  
 <div align="center">  
-  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&icon_color=bd93f9&hide_border=true&text_color=50fa7b&ring_color=50fa7b&title_color=e971b7&bg_color=00000000" alt="Diego Matias github stats" />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=dgmatias&show_icons=true&icon_color=bd93f9&hide_border=true&text_color=50fa7b&ring_color=50fa7b&title_color=e971b7&bg_color=00000000" alt="Diego Matias github stats" />
   
- <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&hide_border=true&title_color=e971b7&text_color=50fa7b&bg_color=00000000"/>
+ <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmatias&layout=compact&hide_border=true&title_color=e971b7&text_color=50fa7b&bg_color=00000000"/>
 </div>
  
  <h3 align="center"> Github Streaks</h3>
